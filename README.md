@@ -21,3 +21,15 @@
 10. **Raise Pull Request**: 🎉 Click on 'Contribute' from the forked repository and raise a pull request with the LeetCode problem number as the title of the pull request.
 
 Follow these steps to seamlessly contribute to this repository using LeetSync! Happy coding! 😊
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumedh2424/LeetCode-Feeder/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
